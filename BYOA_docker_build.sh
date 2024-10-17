@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#/var/lib/tom
 TARGET_DIR="/home/developer/PzeonAnalyticsTarget_Responsive/PRODUCTION/Srijan/PzeonAnalytics/"
 
 if [ -d "$TARGET_DIR" ]; then
